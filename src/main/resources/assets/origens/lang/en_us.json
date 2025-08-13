@@ -1,0 +1,13 @@
+{
+  "itemGroup.origens": "Example Mod Tab",
+  "block.origens.example_block": "Example Block",
+  "item.origens.example_item": "Example Item",
+
+  "origens.configuration.title": "Origens Configs",
+  "origens.configuration.section.origens.common.toml": "Origens Configs",
+  "origens.configuration.section.origens.common.toml.title": "Origens Configs",
+  "origens.configuration.items": "Item List",
+  "origens.configuration.logDirtBlock": "Log Dirt Block",
+  "origens.configuration.magicNumberIntroduction": "Magic Number Text",
+  "origens.configuration.magicNumber": "Magic Number"
+}
